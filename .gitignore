@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# MicroPico local/editor cache
+.micropico
+.pico_w_go
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.idea/
+
+# Potential local settings and secrets
+.env
+.env.*
+*.log
